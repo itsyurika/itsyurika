@@ -1,10 +1,13 @@
 <div align="center">
+  </br>
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsyurika&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyurika&layout=compact&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsyurika&theme=dark)](https://git.io/streak-stats)
 
+</br>
 - 👋 Hi, I’m @itsyurika or Yuri
 - 👀 I’m interested in ...pole dancing, drawing, tattoo, and knitting :)
 - 🌱 I’m currently learning ...to become a full stack developer!
