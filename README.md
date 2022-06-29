@@ -10,9 +10,9 @@
 </br>
   </div>
   
-- 👋 Hi, I’m @itsyurika or Yuri
+- 👋 Hi, I’m Yuri
 - 👀 I’m interested in ...pole dancing, drawing, tattoo, and knitting :)
-- 🌱 I’m currently learning ...to become a full stack developer!
+- 🌱 I’m currently learning ...Python!
 - 💞️ I’m looking to collaborate on ...a project that uses Next.js, typescript, and MySQL to broaden my skillset.
 - 📫 How to reach me ...send me a message! 
 
