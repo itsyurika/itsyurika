@@ -5,7 +5,9 @@
 </br>
 </br>
 
-<p alignt="center"> I'm a recent graduate of Lighthouse Labs Web Dev bootcamp, with a background in pharmacology and high-end fashion retail. I'm a passionate learner who loves science and art. I love the analytical aspect of coding, but also how it lets you to be creative in approaching various problems. It's always exciting to create something what you could only dream for before - especially if others can enjoy it too! I'm always open for collaborations and projects, so feel free to poke me! </p>
+<div align="left">
+<p alignt="left"> I'm a recent graduate of Lighthouse Labs Web Dev bootcamp, with a background in pharmacology and high-end fashion retail. </br> I'm a passionate learner who loves science and art. I love the analytical aspect of coding, but also how it lets you to be creative in approaching various problems. </br> It's always exciting to create something what you could only dream for before - especially if others can enjoy it too! I'm always open for collaborations and projects, so feel free to poke me! </p>
+</div>
 
 </br>
 
