@@ -57,7 +57,7 @@
 <p >
 <a href="https://www.linkedin.com/in/07yuri/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40" /></a>
 <a href="https://instagram.com/waterserpents" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="40" width="40" /></a>
-<a href="yuriyang.me" target="blank"><img align="center" src="https://www.svgrepo.com/show/144579/browser.svg" alt="portfolio" height="40" width="40" /></a>
+<a href="http://yuriyang.me" target="blank"><img align="center" src="https://www.svgrepo.com/show/144579/browser.svg" alt="portfolio" height="40" width="40" /></a>
 </p>
           
 
