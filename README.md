@@ -5,9 +5,15 @@
 </br>
 </br>
 
+Currently working as a [programer](https://github.com/Yuri-mv) at [MediaValet](https://www.mediavalet.com/)
+
+</br>
 <div align="left">
-<p alignt="left"> I'm a recent graduate of Lighthouse Labs Web Dev bootcamp, with a background in pharmacology and high-end fashion retail. </br> I'm a passionate learner who loves science and art. I love the analytical aspect of coding, but also how it lets you to be creative in approaching various problems. </br> It's always exciting to create something what you could only dream for before - especially if others can enjoy it too! I'm always open for collaborations and projects, so feel free to poke me! </p>
+<p alignt="left"> I'm a resourceful software engineer at with a background in pharmacology and high-end fashion retail. 
+</br> I'm a passionate learner who loves science and art. I love the analytical aspect of coding, but also how it lets you to be creative in approaching various problems people encounter in real life. </br>
+It's always exciting to create something - especially if others can enjoy it too! </br> I'm always open for collaborations and projects, so feel free to poke me! </p>
 </div>
+
 
 </br>
 
@@ -61,7 +67,8 @@
 <p >
 <a href="https://www.linkedin.com/in/07yuri/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40" /></a>
 <a href="https://instagram.com/waterserpents" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="40" width="40" /></a>
-<a href="http://yuriyang.me" target="blank"><img align="center" src="https://www.svgrepo.com/show/144579/browser.svg" alt="portfolio" height="40" width="40" /></a>
+<a href="https://yuriyang.com
+" target="blank"><img align="center" src="https://www.svgrepo.com/show/144579/browser.svg" alt="portfolio" height="40" width="40" /></a>
 </p>
           
 
