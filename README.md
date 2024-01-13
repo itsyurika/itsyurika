@@ -5,7 +5,7 @@
 </br>
 </br>
 
-Currently working as a [software engineer](https://github.com/Yuri-mv) at [FNZ](https://www.fnz.com/)
+Currently working as a software engineer at [FNZ](https://www.fnz.com/)
 
 </br>
 <div align="left">
