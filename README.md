@@ -5,11 +5,11 @@
 </br>
 </br>
 
-Currently working as a [programer](https://github.com/Yuri-mv) at [MediaValet](https://www.mediavalet.com/)
+Currently working as a [software engineer](https://github.com/Yuri-mv) at [FNZ](https://www.fnz.com/)
 
 </br>
 <div align="left">
-<p alignt="left"> I'm a resourceful software engineer at with a background in pharmacology and high-end fashion retail. 
+<p alignt="left"> I'm a resourceful software engineer at with a background in pharmacology and high-end fashion client relations management. 
 </br> I'm a passionate learner who loves science and art. I love the analytical aspect of coding, but also how it lets you to be creative in approaching various problems people encounter in real life. </br>
 It's always exciting to create something - especially if others can enjoy it too! </br> I'm always open for collaborations and projects, so feel free to poke me! </p>
 </div>
