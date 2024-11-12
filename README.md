@@ -42,7 +42,7 @@ It's always exciting to create something - especially if others can enjoy it too
  </p>
 </br>
 
-### Next Tech on My List 
+### Working Knowledge
 <p>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" />
@@ -53,22 +53,11 @@ It's always exciting to create something - especially if others can enjoy it too
 </p>         
 </br>
 
-## My Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsyurika&show_icons=true&theme=aura_dark)]([https://github.com/itsyurika])
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyurika&layout=compact&theme=aura_dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/itsyurika))
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsyurika&theme=monokai-metallian)]([https://github.com/itsyurika])
-
-</br>
-
 ## Connect With Me
 
 <p >
 <a href="https://www.linkedin.com/in/07yuri/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40" /></a>
 <a href="https://instagram.com/waterserpents" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="40" width="40" /></a>
-<a href="https://yuriyang.com
-" target="blank"><img align="center" src="https://www.svgrepo.com/show/144579/browser.svg" alt="portfolio" height="40" width="40" /></a>
 </p>
           
 
