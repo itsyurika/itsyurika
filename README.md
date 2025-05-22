@@ -5,7 +5,7 @@
 </br>
 </br>
 
-Currently working as a software engineer at [FNZ](https://www.fnz.com/)
+Currently working as a software developer at [Priceline](https://www.priceline.com/)
 
 </br>
 <div align="left">
